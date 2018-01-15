@@ -56,6 +56,7 @@ ol li{
 .background{
 	background-image: url(https://scontent-lht6-1.xx.fbcdn.net/v/t31.0-8/26758106_2021172331459883_4765069748199280651_o.jpg?oh=faa6bebb4fd9ec999956d49332852d1b&oe=5AF7D3BC);
 	background-size: cover;
+	background-repeat: round;
 	height: 410vh;
 	opacity: 0.75;
 }
