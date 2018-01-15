@@ -1,0 +1,30 @@
+.header{
+background-color: #aaa7a7;
+color: white;
+text-align: center;
+font-family: 'Macondo', cursive; 
+
+
+}
+.logo{
+	 height: 150px;
+	 border-radius: 60%;
+	 padding-bottom: 10px;
+
+}
+.main{
+	text-align: center;
+
+}
+.list{
+	text-align: center;}
+
+.footer{  
+background-color: #aaa7a7;
+	color: white;
+	text-align: center;
+ }
+	
+ul {
+  list-style-type: none;
+}

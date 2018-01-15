@@ -1,0 +1,242 @@
+
+
+.nav-bar {
+	background-color: #9C90B9;
+	opacity: 0.75;
+	text-align: center;
+	font-family: 'Macondo', cursive;
+	font-size: 15px;}
+	
+  a {
+    display: block;
+}
+
+.header-a {
+     padding: 0px;
+	margin: 0px;
+   max-width: none;
+}
+
+.container-one{
+	    background-color: rgba(231, 248, 248, 0.7);
+}
+	
+	.header-b{
+		min-height: 200px;
+	}
+
+.card{
+font-family: 'Macondo', cursive;
+text-align: center;
+background-color: #F2F0EF;
+}
+
+ol li{
+  list-style-type: none;
+}
+
+
+.img-circle{
+	border-radius: 60%
+}
+
+.third {
+	min-height: 520px;
+}
+
+
+.main-header{
+	background-image: url(https://scontent-lht6-1.xx.fbcdn.net/v/t31.0-8/26758106_2021172331459883_4765069748199280651_o.jpg?oh=faa6bebb4fd9ec999956d49332852d1b&oe=5AF7D3BC);
+	background-size: cover;
+	background-attachment: fixed;
+	height: 100vh;	opacity: 0.75;
+	
+}
+
+.background{
+	background-image: url(https://scontent-lht6-1.xx.fbcdn.net/v/t31.0-8/26758106_2021172331459883_4765069748199280651_o.jpg?oh=faa6bebb4fd9ec999956d49332852d1b&oe=5AF7D3BC);
+	background-size: cover;
+	height: 400vh;
+	opacity: 0.75;
+}
+
+.welcome{
+	font-size: 40px;
+	text-align: center;
+	color: white;
+	padding-top: 50vh;
+	font-family: 'Macondo', cursive;
+}
+
+.profile-info{
+	min-height: 522px;
+}
+
+.mountains {
+      /*  background-color: rgba(231, 248, 248, 0.5411764705882353);*/
+/*	opacity: 0.75;*/
+min-height: 600px
+}
+
+.bee{
+	min-height: 570;
+}
+.water{
+	/*background-color: rgba(231, 248, 248, 0.7);*/
+	/*opacity: 0.75;*/
+}
+
+.city{
+	/*background-color: rgba(231, 248, 248, 0.7);*/
+	/*opacity: 0.75;*/
+	min-height: 500px
+}
+
+.two {
+	min-height: 522px;
+}
+
+
+
+.second{
+	background-color: rgba(231, 248, 248, 0.7);
+}
+
+.nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+
+
+.perhaps{
+	min-height: 522px;
+}
+
+.nav-bar {
+	 border-right: 1px solid gray;	
+}
+
+article {
+    padding: 10px;
+}
+.
+.img-width{
+	width: 100%;
+}
+
+.footer{
+
+    padding: 2em;
+    color: gray;
+    background-color: #e8d7d7;
+    clear: left;
+    text-align: center;	
+}
+
+* {box-sizing:border-box}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+/* Hide the images by default */
+.mySlides {
+    display: none;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  margin-top: -22px;
+  padding: 16px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+}
+.img-width{
+	width: 100%;
+	height: 100%;
+}
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+
+/* Caption text */
+.text {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor:pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+ /* background-color: rgba(231, 248, 248, 0.7);*/
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+.fade {
+	opacity: 1;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+.slide-one-image,
+.slide-two-image,
+.slide-three-image {
+	width: 100%;
+ }
