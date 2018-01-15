@@ -56,7 +56,7 @@ ol li{
 .background{
 	background-image: url(https://scontent-lht6-1.xx.fbcdn.net/v/t31.0-8/26758106_2021172331459883_4765069748199280651_o.jpg?oh=faa6bebb4fd9ec999956d49332852d1b&oe=5AF7D3BC);
 	background-size: cover;
-	height: 400vh;
+	height: 410vh;
 	opacity: 0.75;
 }
 
@@ -89,7 +89,7 @@ min-height: 600px
 .city{
 	/*background-color: rgba(231, 248, 248, 0.7);*/
 	/*opacity: 0.75;*/
-	min-height: 500px
+	min-height: 520px
 }
 
 .two {
